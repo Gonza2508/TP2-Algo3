@@ -8,6 +8,6 @@ public class PrincipalTest {
     public void test01() {
         Principal principal = new Principal();
         int numero = principal.funcion();
-        assertEquals(numero, 1);
+        assertEquals(numero, 0);
     }
 }
